@@ -56,6 +56,21 @@ SMODS.Atlas {
     path = 'UNBEATACLUBSHC.png'
 }
 
+SMODS.Atlas {
+    key = 'unbeatadiamonds',
+    px = 71,
+    py = 95,
+    disable_mipmap = true;
+    path = 'UNBEATADIAMONDSLC.png'
+}
+SMODS.Atlas {
+    key = 'unbeatadiamonds_hc',
+    px = 71,
+    py = 95,
+    disable_mipmap = true;
+    path = 'UNBEATADIAMONDSHC.png'
+}
+
 SMODS.DeckSkin ({
     key = 'UnbeataSpades',
     suit = "Spades",
@@ -92,5 +107,16 @@ SMODS.DeckSkin({
     pos_style = 'collab'
 })
 
+SMODS.DeckSkin({
+    key = 'UnbeataDiamonds',
+    suit = "Diamonds",
+    ranks = ranks,
+    lc_atlas = 'unbeatadiamonds',
+    hc_atlas = 'unbeatadiamonds_hc',
+    loc_txt = {
+        ['en-us'] = 'UNBEATABLE',
+    },
+    pos_style = 'collab'
+})
 -----------------------------
 -----------------------------
