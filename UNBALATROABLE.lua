@@ -5,8 +5,12 @@
 --- MOD_AUTHOR: [HeroOfYore]
 --- MOD_DESCRIPTION: Adds UNBEATABLE reskins of J, Q, K of all suits
 
-
-UNBALATROABLE_config = SMODS.current_mod.config or {} 
+if not UNBALATROABLE then
+    UNBALATROABLE = {}
+end
+local mod_path = "" .. SMODS.current_mod.path
+UNBALATROABLE.path = mod_path
+UNBALATROABLE_config = SMODS.current_mod.config
 UNBALATROABLE_config.gameset_toggle = true;
 -----------------------------
 ----------------------------
@@ -123,6 +127,7 @@ SMODS.DeckSkin({
 })
 -----------------------------
 -----------------------------
+
 
 function SMODS.INIT.JOKERRESKIN()
     
