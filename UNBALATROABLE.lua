@@ -11,7 +11,7 @@ end
 local mod_path = "" .. SMODS.current_mod.path
 UNBALATROABLE.path = mod_path
 UNBALATROABLE_config = SMODS.current_mod.config
-UNBALATROABLE_config.gameset_toggle = true;
+----UNBALATROABLE_config.gameset_toggle = true;
 -----------------------------
 ----------------------------
 
@@ -141,13 +141,13 @@ function SMODS.INIT.JOKERRESKIN()
         px = 71, 
         py = 95
     }
-    if not UNBALATROABLE_config.disabled then
+    ---if not UNBALATROABLE_config.disabled then
         for jkr, data in pairs(jokers) do
             SMODS["Joker"]:take_ownership(jkr, {atlas = "8ballable",
             pos = {x = 0 + data.pos, y = 0},
             soul_pos = {x = 0 + data.pos, y = 1}}, true)
         end
-    end
+    ---end
 end
 
 
@@ -180,6 +180,7 @@ local UNBALATROABLEConfigTab = function()
         active_colour = HEX("E01BDE"),
         ref_table = UNBALATROABLE_config,
         ref_value = "disabled",
+        SMODS.save_mod_config
     })
     return {
 		n = G.UIT.ROOT,
