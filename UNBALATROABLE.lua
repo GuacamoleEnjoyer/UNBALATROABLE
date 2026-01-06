@@ -5,6 +5,9 @@
 --- MOD_AUTHOR: [HeroOfYore]
 --- MOD_DESCRIPTION: Adds UNBEATABLE reskins of J, Q, K of all suits
 
+
+UNBALATROABLE_config = SMODS.current_mod.config or {} 
+UNBALATROABLE_config.gameset_toggle = true;
 -----------------------------
 ----------------------------
 
@@ -120,3 +123,73 @@ SMODS.DeckSkin({
 })
 -----------------------------
 -----------------------------
+
+function SMODS.INIT.JOKERRESKIN()
+    
+    jokers = {
+        j_8_ball = { pos = 0}
+    }
+
+    SMODS.Atlas {
+        key = "8ballable",
+        path = "UNBEATA8BALL.png",
+        px = 71, 
+        py = 95
+    }
+    if not UNBALATROABLE_config.disabled then
+        for jkr, data in pairs(jokers) do
+            SMODS["Joker"]:take_ownership(jkr, {atlas = "8ballable",
+            pos = {x = 0 + data.pos, y = 0},
+            soul_pos = {x = 0 + data.pos, y = 1}}, true)
+        end
+    end
+end
+
+
+local UNBALATROABLEConfigTab = function()
+    unbal_nodes = {
+        {
+            n = G.UIT.R,
+			config = { align = "cm" },
+			nodes = {
+				{
+					n = G.UIT.O,
+					config = {
+						object = DynaText({
+							string = "This toggle disables reskinned jokers.",
+							colours = { G.C.WHITE },
+							shadow = true,
+							scale = 0.4,
+						}),
+					},
+				},
+			},
+        }
+    }
+    left_settings = { n = G.UIT.C, config = { align = "tl", padding = 0.05 }, nodes = {} }
+	right_settings = { n = G.UIT.C, config = { align = "tl", padding = 0.05 }, nodes = {} }
+	config = { n = G.UIT.R, config = { align = "tm", padding = 0 }, nodes = { left_settings, right_settings } }
+	unbal_nodes[#unbal_nodes + 1] = config
+    unbal_nodes[#unbal_nodes + 1] = create_toggle({
+        label = "Disable Reskinned Jokers",
+        active_colour = HEX("E01BDE"),
+        ref_table = UNBALATROABLE_config,
+        ref_value = "disabled",
+    })
+    return {
+		n = G.UIT.ROOT,
+		config = {
+			emboss = 0.05,
+			minh = 6,
+			r = 0.1,
+			minw = 10,
+			align = "cm",
+			padding = 0.2,
+			colour = G.C.BLACK,
+		},
+		nodes = unbal_nodes,
+	}
+end
+
+SMODS.current_mod.config_tab = UNBALATROABLEConfigTab
+    
