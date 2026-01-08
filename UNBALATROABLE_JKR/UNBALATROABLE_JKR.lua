@@ -1,4 +1,17 @@
+--- STEAMODDED HEADER
+--- MOD_NAME: BalatroxUNBEATABLE Joker reskin
+--- MOD_ID: BalatrUNBEATABLE_JKR
+--- prefix: UNBEATJKR
+--- MOD_AUTHOR: [HeroOfYore]
+--- MOD_DESCRIPTION: Adds reskins of jokers. Very WIP.
 
+if not UNBALATROABLE_JKR then
+    UNBALATROABLE_JKR = {}
+end
+local mod_path = "" .. SMODS.current_mod.path
+UNBALATROABLE_JKR.path = mod_path
+---UNBALATROABLE_config_JKR = SMODS.current_mod.config
+----UNBALATROABLE_config.gameset_toggle = true;
 function SMODS.INIT.JOKERRESKIN()
     
     jokers = {
