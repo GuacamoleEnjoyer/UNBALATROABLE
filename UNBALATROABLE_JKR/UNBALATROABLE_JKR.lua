@@ -15,10 +15,11 @@ UNBALATROABLE_JKR.path = mod_path
 function SMODS.INIT.JOKERRESKIN()
     
     jokers = {
-        j_8_ball = {pos = 0}
-        j_mr_bones = {pos = 1}
-        j_invisible = {pos = 2}
-        j_stencil = {pos = 3}
+        j_8_ball = {pos = 0},
+        j_mr_bones = {pos = 1},
+        j_invisible = {pos = 2},
+        j_stencil = {pos = 3},
+        j_wee = {pos = 4}
     }
 
     SMODS.Atlas {
