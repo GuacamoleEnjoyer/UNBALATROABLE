@@ -13,3 +13,6 @@ Joker reskins:
 - Photograph
 - Diet Cola
 - Wee Joker
+- Ice cream
+- Gros Michel
+- Obelisk
