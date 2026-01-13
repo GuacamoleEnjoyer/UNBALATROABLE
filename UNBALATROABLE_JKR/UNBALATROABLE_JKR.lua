@@ -19,7 +19,12 @@ function SMODS.INIT.JOKERRESKIN()
         j_mr_bones = {pos = 1},
         j_invisible = {pos = 2},
         j_stencil = {pos = 3},
-        j_wee = {pos = 4}
+        j_wee = {pos = 4},
+        j_photograph = {pos = 5},
+        j_diet_cola = {pos = 6},
+        j_ice_cream = {pos = 7},
+        j_gros_michel = {pos = 8},
+        j_obelisk = {pos = 9}
     }
 
     SMODS.Atlas {
