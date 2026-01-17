@@ -5,6 +5,8 @@ Still in the works, likely to be updated fairly frequently. Currently contains:
 - reskins of the K/Q/J for all four suits. Includes High Contrast variants
   (credit to Stanza Rorae for the HC variant of the Diamonds and Hearts suits)
 
+Credit to ErmyWurm for the incredible Hack reskin!
+
 Implemented Joker reskins:
 - 8 ball
 - Mr. Bones
@@ -20,6 +22,10 @@ Implemented Joker reskins:
 - Seltzer
 - Hanging Chad
 - Scary Face
+- Acrobat
+- Abstract
+- Hack (Sprited by ErmyWurm)
+- Ride The Bus
 
 Planned reskins, the name indicates who suggested it:
 - DC gun for Ceremonial dagger (bedfan)   M
@@ -59,11 +65,11 @@ Planned reskins, the name indicates who suggested it:
 - arcade covers for Zany, Mad, Crazy... jokers (Accurate Beatgetta)
 - pamphlet for mail-in-rebait (HeroOfYore)
 - the forgetter concert that beat wrecks in chapter four for hac (bedfan)
-- Abstract joker the art from quaver's place ch1 (Stanza Rorae)
+- Abstract joker the art from quaver's place ch1 (Stanza Rorae) C
 - SQUARE UP for luchador (HeroOfYore)
 - ch 1 escape sequence for Hit The Road (bedfan)
 - HARM poster for Certificate (bedfan)
-- No Signal or Sound Test TV for hologram (me and bedfan)
+- No Signal or Sound Test TV for hologram (me and bedfan) 
 - sforzando stonks for To the Moon
 - dampener blueprints for blueprints (elexa)
 - penny ch 2 hidey hole for shortcut (elexa)
@@ -82,7 +88,7 @@ Planned reskins, the name indicates who suggested it:
 - gachapon ch 3 for all 6s (bedfan)
 - QUIT YOUR DAY JOB ach as bootstraps (AriaofScarlet)
 - Moonlit Flower for Flower Pot (AriaOfScarlet)
-- beat adventure 2 for acrobat (AriaOfScarlet)
+- beat adventure 2 for acrobat (AriaOfScarlet) C
 
 
 
