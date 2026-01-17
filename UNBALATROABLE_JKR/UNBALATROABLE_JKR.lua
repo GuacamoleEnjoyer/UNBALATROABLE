@@ -28,7 +28,11 @@ function SMODS.INIT.JOKERRESKIN()
         j_cavendish = {pos = 10},
         j_seltzer = {pos = 11},
         j_hanging_chad = {pos = 12},
-        j_scary_face = {pos = 13}
+        j_scary_face = {pos = 13},
+        j_acrobat = {pos = 14},
+        j_abstract = {pos = 15},
+        j_hack = {pos = 16},
+        j_ride_the_bus = {pos = 17}
     }
 
     SMODS.Atlas {
