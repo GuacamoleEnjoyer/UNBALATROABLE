@@ -35,6 +35,8 @@ function SMODS.INIT.JOKERRESKIN()
         j_ride_the_bus = {pos = 17}
     }
 
+
+
     SMODS.Atlas {
         key = "agglomeration",
         path = "AGGLOMERATION.png",
@@ -48,4 +50,22 @@ function SMODS.INIT.JOKERRESKIN()
             soul_pos = {x = 0 + data.pos, y = 1}}, true)
         end
     ---end
+    animated_jokers = {
+        j_lucky_cat = {row = 0}
+    }
+
+    SMODS.Atlas {
+        key = "scoopy",
+        path = "UNSCOOPABLE.png", 
+        atlas_table = 'ANIMATION_ATLAS',
+        frames = 3,
+        px = 71, 
+        py = 95,
+    }
+        for jkr, data in pairs(animated_jokers) do
+            SMODS["Joker"]:take_ownership(jkr, {atlas = "scoopy",
+            pos = {x = 0, y = 0 + data.row},
+            --soul_pos = {x = 0, y = 1}
+        }, true)
+        end
 end
