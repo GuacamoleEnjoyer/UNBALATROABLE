@@ -26,6 +26,8 @@ Implemented Joker reskins:
 - Abstract
 - Hack (Sprited by ErmyWurm)
 - Ride The Bus
+- Lucky Cat
+- Smeared Joker
 
 Planned reskins, the name indicates who suggested it:
 - DC gun for Ceremonial dagger (bedfan)   M
@@ -38,7 +40,7 @@ Planned reskins, the name indicates who suggested it:
 - NOSTALGIA. BITTERS. DEMERARA. for hanging chad (Venus, HeroOfYore) C
 - Harm Tower for Castle C
 - Demon child for ... something? (Venus) (madness is going to be used for something else)
-- blue soda boy for diet cola
+- blue soda boy for diet cola C
 - nothing beat for invisible joker C A(?)
 - bitcrunched quaver for wee joker C  R
 - cocktail shaker for seltzer (Octave) C
@@ -71,19 +73,19 @@ Planned reskins, the name indicates who suggested it:
 - HARM poster for Certificate (bedfan)
 - No Signal or Sound Test TV for hologram (me and bedfan) 
 - sforzando stonks for To the Moon
-- dampener blueprints for blueprints (elexa)
+- dampener blueprints for blueprints (elexa) C
 - penny ch 2 hidey hole for shortcut (elexa)
 - chair girl poster for devious joker (heroofyore and elexa)
 - weird statue from ch 3(4?) for obelisk (elexa)
 - quaver arson for campfire (ermy)
 - BRAIN POISON DRAFT+TAPE for brainstorm ❤️ (bedfan+hero)
 - dream world scene for hallucination (befan)
-- washing machine scene for smeared joker (ermy)
+- washing machine scene for smeared joker (ermy) C
 - dance machine for delayed gratitude (ermy)
 - proper rhythm atiti cover for DNA (befan)
 - ramen girl picking up spilled ramen for splash
 - evening whacktown batting for dusk (bedfan)
-- SCOOPY FOR LUCKY CAT (bedfan)
+- SCOOPY FOR LUCKY CAT (bedfan) C
 - leafless tree ch 5 for erosion (bedfan)
 - gachapon ch 3 for all 6s (bedfan)
 - QUIT YOUR DAY JOB ach as bootstraps (AriaofScarlet)
