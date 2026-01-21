@@ -39,7 +39,7 @@ Planned reskins, the name indicates who suggested it:
 - Bar or Measure for Drunkard (Venus)
 - NOSTALGIA. BITTERS. DEMERARA. for hanging chad (Venus, HeroOfYore) C
 - Harm Tower for Castle C
-- Demon child for ... something? (Venus) (madness is going to be used for something else)
+- Demon child jumprope for superposition (ErmyWurm) (madness is going to be used for something else)
 - blue soda boy for diet cola C
 - nothing beat for invisible joker C A(?)
 - bitcrunched quaver for wee joker C  R
@@ -92,6 +92,8 @@ Planned reskins, the name indicates who suggested it:
 - Moonlit Flower for Flower Pot (AriaOfScarlet)
 - beat adventure 2 for acrobat (AriaOfScarlet) C
 - Its Whacktime cover art for Baseball card (AriaOfScarlet) A C
+- Crest losing his mind album cover for Madness (?)
+- Crest Speech for Walkie Talkie (ErmyWurm)
 
 
 
