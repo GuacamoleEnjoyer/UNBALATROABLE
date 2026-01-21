@@ -52,7 +52,8 @@ function SMODS.INIT.JOKERRESKIN()
     ---end
     animated_jokers = {
         j_lucky_cat = {row = 0},
-        j_smeared = {row = 1}
+        j_smeared = {row = 1},
+        j_baseball = {row = 2}
     }
 
     SMODS.Atlas {
@@ -69,6 +70,15 @@ function SMODS.INIT.JOKERRESKIN()
         path = "UNSCOOPABLE.png",
         atlas_table = 'ANIMATION_ATLAS',
         frames = 9,
+        px = 71,
+        py = 95,
+    }
+
+    SMODS.Atlas {
+        key = "j_baseball_anim",
+        path = "UNSCOOPABLE.png",
+        atlas_table = 'ANIMATION_ATLAS',
+        frames = 38,
         px = 71,
         py = 95,
     }
