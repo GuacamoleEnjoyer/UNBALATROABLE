@@ -80,7 +80,7 @@ Planned reskins, the name indicates who suggested it:
 - quaver arson for campfire (ermy)
 - BRAIN POISON DRAFT+TAPE for brainstorm ❤️ (bedfan+hero)
 - dream world scene for hallucination (befan)
-- washing machine scene for smeared joker (ermy) C
+- washing machine scene for smeared joker (ermy) A C
 - dance machine for delayed gratitude (ermy)
 - proper rhythm atiti cover for DNA (befan)
 - ramen girl picking up spilled ramen for splash
@@ -91,7 +91,7 @@ Planned reskins, the name indicates who suggested it:
 - QUIT YOUR DAY JOB ach as bootstraps (AriaofScarlet)
 - Moonlit Flower for Flower Pot (AriaOfScarlet)
 - beat adventure 2 for acrobat (AriaOfScarlet) C
-- Its Whacktime cover art for Baseball card (AriaOfScarlet)
+- Its Whacktime cover art for Baseball card (AriaOfScarlet) A C
 
 
 
