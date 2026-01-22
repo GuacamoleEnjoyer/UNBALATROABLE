@@ -104,6 +104,9 @@ Planned reskins, the name indicates who suggested it:
 - Crest losing his mind album cover for Madness (?)
 - Crest Speech for Walkie Talkie (ErmyWurm)
 - UNBEATABLE sticker for Driver's License (Ermy + StanzaRorae)
+- Afterburn cover for astronaut (bedfan + heroofyore)
+- Afterburner cover for satellite (bedfan + heroofyore)
+- Ch 4 brain poison quaver beat talk scene for constllation
 
 
 
