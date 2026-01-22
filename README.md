@@ -106,7 +106,9 @@ Planned reskins, the name indicates who suggested it:
 - UNBEATABLE sticker for Driver's License (Ermy + StanzaRorae)
 - Afterburn cover for astronaut (bedfan + heroofyore)
 - Afterburner cover for satellite (bedfan + heroofyore)
-- Ch 4 brain poison quaver beat talk scene for constllation
+- Ch 4 brain poison quaver beat talk scene for constellation (Stanza + Bedfan)
+- THE STUFF HAVER achievement for egg (ermy)
+- Beat's Walkman for gift card (ermy)
 
 
 
