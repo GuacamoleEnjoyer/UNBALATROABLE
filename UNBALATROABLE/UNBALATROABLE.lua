@@ -1,16 +1,14 @@
 --- STEAMODDED HEADER
---- MOD_NAME: BalatroxUNBEATABLE reskin
---- MOD_ID: BalatrUNBEATABLE
---- prefix: UNBEAT
 --- MOD_AUTHOR: [HeroOfYore]
 --- MOD_DESCRIPTION: Adds UNBEATABLE reskins of J, Q, K of all suits
 
-if not UNBALATROABLE then
-    UNBALATROABLE = {}
-end
-local mod_path = "" .. SMODS.current_mod.path
-UNBALATROABLE.path = mod_path
-UNBALATROABLE_config = SMODS.current_mod.config
+--if not UNBALATROABLE then
+--    UNBALATROABLE = {}
+--end
+--local mod_path = "" .. SMODS.current_mod.path
+--UNBALATROABLE.path = mod_path
+--UNBALATROABLE_config = SMODS.current_mod.config
+assert(SMODS.load_file("config.lua"))()
 ----UNBALATROABLE_config.gameset_toggle = true;
 -----------------------------
 ----------------------------
