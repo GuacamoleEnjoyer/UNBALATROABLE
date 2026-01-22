@@ -26,11 +26,20 @@ Implemented Joker reskins:
 - Abstract
 - Hack (Sprited by ErmyWurm)
 - Ride The Bus
+- Blueprint
+- Driver's License (Sprited by ErmyWurm)
+- Devious Joker (Sprited by ErmyWurm)
+- Ceremonial Dagger
+
+Animated jokers implemented:
 - Lucky Cat
 - Smeared Joker
+- Baseball Card
+- Ramen
+- Flower Pot
 
 Planned reskins, the name indicates who suggested it:
-- DC gun for Ceremonial dagger (bedfan)   M
+- DC gun for Ceremonial dagger (bedfan) C A M
 - Beat phasing around for misprint A
 - unbeatable!!! boy as golden joker (Sillier)
 - a silence for scary face   (Sillier) C
@@ -39,7 +48,7 @@ Planned reskins, the name indicates who suggested it:
 - Bar or Measure for Drunkard (Venus)
 - NOSTALGIA. BITTERS. DEMERARA. for hanging chad (Venus, HeroOfYore) C
 - Harm Tower for Castle C
-- Demon child jumprope for superposition (ErmyWurm) (madness is going to be used for something else)
+- Demon child jumprope for superposition (ErmyWurm) 
 - blue soda boy for diet cola C
 - nothing beat for invisible joker C A(?)
 - bitcrunched quaver for wee joker C  R
@@ -75,7 +84,7 @@ Planned reskins, the name indicates who suggested it:
 - sforzando stonks for To the Moon
 - dampener blueprints for blueprints (elexa) C
 - penny ch 2 hidey hole for shortcut (elexa)
-- chair girl poster for devious joker (heroofyore and elexa)
+- chair girl poster for devious joker (heroofyore and elexa) C
 - weird statue from ch 3(4?) for obelisk (elexa)
 - quaver arson for campfire (ermy)
 - BRAIN POISON DRAFT+TAPE for brainstorm ❤️ (bedfan+hero)
@@ -89,11 +98,12 @@ Planned reskins, the name indicates who suggested it:
 - leafless tree ch 5 for erosion (bedfan)
 - gachapon ch 3 for all 6s (bedfan)
 - QUIT YOUR DAY JOB ach as bootstraps (AriaofScarlet)
-- Moonlit Flower for Flower Pot (AriaOfScarlet)
+- Moonlit Flower for Flower Pot (AriaOfScarlet) A C
 - beat adventure 2 for acrobat (AriaOfScarlet) C
 - Its Whacktime cover art for Baseball card (AriaOfScarlet) A C
 - Crest losing his mind album cover for Madness (?)
 - Crest Speech for Walkie Talkie (ErmyWurm)
+- UNBEATABLE sticker for Driver's License (Ermy + StanzaRorae)
 
 
 
