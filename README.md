@@ -5,7 +5,7 @@ Still in the works, likely to be updated fairly frequently. Currently contains:
 - reskins of the K/Q/J for all four suits. Includes High Contrast variants
   (credit to Stanza Rorae for the HC variant of the Diamonds and Hearts suits)
 
-Credit to ErmyWurm for the incredible Hack reskin!
+Credit to ErmyWurm for the incredible Hack, Devious Joker, and Driver's License reskins!
 
 Implemented Joker reskins:
 - 8 ball
@@ -37,6 +37,9 @@ Animated jokers implemented:
 - Baseball Card
 - Ramen
 - Flower Pot
+- Gift Card
+- Egg
+- todo list
 
 Planned reskins, the name indicates who suggested it:
     - DC gun for Ceremonial dagger (bedfan) C A M
@@ -72,12 +75,12 @@ Planned reskins, the name indicates who suggested it:
 - legendaries could be the devs? (epicjeong)
   - trainstation from ch 3 for ride the bus (this one's changed like three times) C
 - bookend song opening cutscene section with beat arm raised for Raised Fist (epicjeong)
-- Beat's journal for To-Do list (epicjeong)
+  - Beat's journal for To-Do list (epicjeong) C A
 - arcade covers for Zany, Mad, Crazy... jokers (Accurate Beatgetta)
 - pamphlet for mail-in-rebait (HeroOfYore)
 - the forgetter concert that beat wrecks in chapter four for hac (bedfan)
   - Abstract joker the art from quaver's place ch1 (Stanza Rorae) C
-- SQUARE UP for luchador (HeroOfYore)
+  - SQUARE UP for luchador (HeroOfYore) C
 - ch 1 escape sequence for Hit The Road (bedfan)
 - HARM poster for Certificate (bedfan)
 - No Signal or Sound Test TV for hologram (me and bedfan) 
@@ -108,7 +111,8 @@ Planned reskins, the name indicates who suggested it:
 - Afterburner cover for satellite (bedfan + heroofyore)
 - Ch 4 brain poison quaver beat talk scene for constellation (Stanza + Bedfan)
   - THE STUFF HAVER achievement for egg (ermy) C
-  - Beat's Walkman for gift card (ermy) C
+  - Beat's Walkman for gift card (ermy) C A
+  - WAR DEN for matador (HeroOfYore) C
 
 
 
