@@ -26,9 +26,11 @@
         j_abstract = {pos = 15},
         j_hack = {pos = 16},
         j_ride_the_bus = {pos = 17},
-        j_blueprint = {pos = 18}
+        j_blueprint = {pos = 18},
         j_drivers_license = {pos = 19},
-        j_devious = {pos = 20}
+        j_devious = {pos = 20},
+        j_luchador = {pos = 21},
+        j_matador = {pos = 22}
     }
 
 
@@ -51,7 +53,10 @@
         j_smeared = {row = 1},
         j_baseball = {row = 2},
         j_ramen = {row = 3},
-        j_flower_pot = {row = 4}
+        j_flower_pot = {row = 4},
+        j_gift = {row = 5},
+        j_egg = {row = 6},
+        j_todo_list = {row = 7}
     }
 
     SMODS.Atlas {
@@ -97,6 +102,33 @@
         atlas_table  = 'ANIMATION_ATLAS',
         frames = 8,
         fps = 5,
+        px = 71,
+        py = 95,
+    }
+
+    SMODS.Atlas{
+        key = "j_gift_anim",
+        path = "UNSCOOPABLE.png",
+        atlas_table  = 'ANIMATION_ATLAS',
+        frames = 5,
+        px = 71,
+        py = 95,
+    }
+
+    SMODS.Atlas{
+        key = "j_egg_anim",
+        path = "UNSCOOPABLE.png",
+        atlas_table  = 'ANIMATION_ATLAS',
+        frames = 13,
+        px = 71,
+        py = 95,
+    }
+
+    SMODS.Atlas{
+        key = "j_todo_list_anim",
+        path = "UNSCOOPABLE.png",
+        atlas_table  = 'ANIMATION_ATLAS',
+        frames = 34,
         px = 71,
         py = 95,
     }
