@@ -115,10 +115,13 @@ Planned reskins, the name indicates who suggested it:
   - THE STUFF HAVER achievement for egg (ermy) C
   - Beat's Walkman for gift card (ermy) C A
   - WAR DEN for matador (HeroOfYore) C
+- treble's arm for half joker
+- WE ARE THE QUAVERLINGS. FEED US. for turtle bean
+- Plastic hammer cover for Glass joker
 
 
 
 Planned Reskin Legend: M means some audio implementation
                         A means it will be animated, 
-                        C means it's been completed
+                        C or a tab (hollow circle) means it's been completed
                         R means it's got some other special modification (e.g. text or title)
