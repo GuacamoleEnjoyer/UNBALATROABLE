@@ -115,9 +115,9 @@ Planned reskins, the name indicates who suggested it:
   - THE STUFF HAVER achievement for egg (ermy) C
   - Beat's Walkman for gift card (ermy) C A
   - WAR DEN for matador (HeroOfYore) C
-- treble's arm for half joker
-- WE ARE THE QUAVERLINGS. FEED US. for turtle bean
-- Plastic hammer cover for Glass joker
+- treble's arm for half joker (Ava-but-also-Rubato)
+- WE ARE THE QUAVERLINGS. FEED US. for turtle bean (HeroOfYore)
+- Plastic hammer cover for Glass joker (Ermy)
 
 
 
