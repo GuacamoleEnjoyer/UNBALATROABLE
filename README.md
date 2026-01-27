@@ -46,7 +46,7 @@ Planned reskins, the name indicates who suggested it:
 - Beat phasing around for misprint A
 - unbeatable!!! boy as golden joker (Sillier)
   - a silence for scary face   (Sillier) C
-- Maid Crest for Happy Face (Siller)
+  - Maid Crest for Happy Face (Siller) C
   - Whacktown baseball for 8-ball (Venus) C
 - Bar or Measure for Drunkard (Venus)
   - NOSTALGIA. BITTERS. DEMERARA. for hanging chad (Venus, HeroOfYore) C
@@ -57,19 +57,19 @@ Planned reskins, the name indicates who suggested it:
   - bitcrunched quaver for wee joker C  R
   - cocktail shaker for seltzer (Octave) C
   - Train photo for photograph (HeroOfYore) C
-- Lighthouse photo for burned photo (HeroOfYore)
+  - Lighthouse photo for burned photo (HeroOfYore) C
   - 808 dampener for joker stencil (Stanza Rorae) C
 - s poster stickers for banner (Stanza Rorae)
 - instruments for gem/bloodstone/arrowhead/agate (HeroOfYore)
 - genres for lusty/gluttonous/wrathful/greedy joker <-- wrathful must be metal
 - Cophasic rhythm for Fibonacci (HeroOfYore) A
   - iced cream for ice cream (HeroOfYore) C
-- eating is living cover for Ramen (bedfan?)
+  - eating is living cover for Ramen (bedfan?) C A
   - appled juice for gros michel (HeroOfYore) C
   - three apples tall for cavendish (HeroOfYore) C
 - silence pillar replay for Throwback (StanzaRorae)
   - restart button from arcade mode for mr. bones (Stanza Rorae) C
-- sewer for Odd Todd
+  - sewer for Odd Todd C A
 - ch4 konbini cornerstore for flash card
 - (a)poco silence realm floor coin for Seeing Double (Guacamole)
 - legendaries could be the devs? (epicjeong)
