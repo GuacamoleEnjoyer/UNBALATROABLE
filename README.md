@@ -30,6 +30,8 @@ Implemented Joker reskins:
 - Driver's License (Sprited by ErmyWurm)
 - Devious Joker (Sprited by ErmyWurm)
 - Ceremonial Dagger
+- Luchador
+- Matador
 
 Animated jokers implemented:
 - Lucky Cat
