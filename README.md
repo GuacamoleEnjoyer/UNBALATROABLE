@@ -1,5 +1,7 @@
 # UNBALATROABLE
 unbeatable Balatro reskin
+Note: This README will continue being updated, but is currently slightly out-of-date. The most accurate form is:
+https://docs.google.com/spreadsheets/d/1pr7zdcIzySzhCSW_rsKbKsyvtOEIOXChVPk57enhA9U
 
 Still in the works, likely to be updated fairly frequently. Currently contains: 
 - reskins of the K/Q/J for all four suits. Includes High Contrast variants
