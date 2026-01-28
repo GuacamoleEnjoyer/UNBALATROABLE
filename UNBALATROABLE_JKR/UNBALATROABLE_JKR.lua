@@ -24,13 +24,16 @@
         j_scary_face = {pos = 13},
         j_acrobat = {pos = 14},
         j_abstract = {pos = 15},
-        j_hack = {pos = 16},
+        j_matador = {pos = 16},
         j_ride_the_bus = {pos = 17},
         j_blueprint = {pos = 18},
-        j_drivers_license = {pos = 19},
+        j_business = {pos = 19},
         j_devious = {pos = 20},
         j_luchador = {pos = 21},
-        j_matador = {pos = 22}
+        j_swashbuckler = {pos = 22},
+        j_mail = {pos = 23},
+        j_hologram = {pos = 24},
+        j_space = {pos = 25}
     }
 
 
@@ -56,7 +59,10 @@
         j_flower_pot = {row = 4},
         j_gift = {row = 5},
         j_egg = {row = 6},
-        j_todo_list = {row = 7}
+        j_todo_list = {row = 7},
+        j_odd_todd = {row = 8},
+        j_burnt = {row = 9},
+
     }
 
     SMODS.Atlas {
@@ -129,6 +135,25 @@
         path = "UNSCOOPABLE.png",
         atlas_table  = 'ANIMATION_ATLAS',
         frames = 34,
+        px = 71,
+        py = 95,
+    }
+        SMODS.Atlas{
+        key = "j_odd_todd_anim",
+        path = "UNSCOOPABLE.png",
+        atlas_table  = 'ANIMATION_ATLAS',
+        frames = 4,
+        fps = 3,
+        px = 71,
+        py = 95,
+    }
+
+        SMODS.Atlas{
+        key = "j_burnt_anim",
+        path = "UNSCOOPABLE.png",
+        atlas_table  = 'ANIMATION_ATLAS',
+        frames = 12,
+        fps = 5,
         px = 71,
         py = 95,
     }
