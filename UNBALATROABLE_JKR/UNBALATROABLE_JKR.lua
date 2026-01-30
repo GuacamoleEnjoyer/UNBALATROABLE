@@ -1,5 +1,4 @@
 --- STEAMODDED HEADER
---- MOD_NAME: BalatroxUNBEATABLE Joker reskin
 --- MOD_ID: BalatrUNBEATABLE_JKR
 --- prefix: UNBEATJKR
 --- MOD_AUTHOR: [HeroOfYore]
@@ -10,7 +9,7 @@
     jokers = {
         j_8_ball = {pos = 0},
         j_mr_bones = {pos = 1},
-        j_invisible = {pos = 2},
+        j_sixth_sense = {pos = 2},
         j_stencil = {pos = 3},
         j_wee = {pos = 4},
         j_photograph = {pos = 5},
@@ -33,7 +32,11 @@
         j_swashbuckler = {pos = 22},
         j_mail = {pos = 23},
         j_hologram = {pos = 24},
-        j_space = {pos = 25}
+        j_space = {pos = 25},
+        j_satellite = {pos = 26},
+        j_delayed_grat = {pos = 27},
+        j_faceless = {pos = 28},
+        j_bootstraps = {pos = 29},
     }
 
 
@@ -62,7 +65,9 @@
         j_todo_list = {row = 7},
         j_odd_todd = {row = 8},
         j_burnt = {row = 9},
-
+        j_superposition = {row = 10},
+        j_bloodstone = {row = 11},
+        j_misprint = {row = 12},
     }
 
     SMODS.Atlas {
@@ -72,6 +77,7 @@
         frames = 3,
         px = 71, 
         py = 95,
+        artist_credits = {'HeroOfYore'}
     }
 
     SMODS.Atlas {
@@ -157,6 +163,34 @@
         px = 71,
         py = 95,
     }
+        SMODS.Atlas{
+        key = "j_superposition_anim",
+        path = "UNSCOOPABLE.png",
+        atlas_table  = 'ANIMATION_ATLAS',
+        frames = 40,
+        fps = 14,
+        px = 71,
+        py = 95,
+    }
+
+        SMODS.Atlas{
+        key = "j_bloodstone_anim",
+        path = "UNSCOOPABLE.png",
+        atlas_table  = 'ANIMATION_ATLAS',
+        frames = 22,
+        fps = 5,
+        px = 71,
+        py = 95,
+    }
+        SMODS.Atlas{
+            key = "j_misprint_anim",
+            path = "UNSCOOPABLE.png",
+            atlas_table = 'ANIMATION_ATLAS',
+            frames = 47,
+            fps = 10,
+            px = 71,
+            py = 95
+        }
 
         for jkr, data in pairs(animated_jokers) do
             SMODS["Joker"]:take_ownership(jkr, {atlas = jkr .. "_anim",
